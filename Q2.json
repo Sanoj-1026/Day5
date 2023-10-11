@@ -1,0 +1,41 @@
+{
+    "name": "Sanoj V",
+    "contact": {
+      "email": "sanojv1055@gmail.com",
+      "phone": "+1 (123) 456-7890",
+      "address": "1/a ramanujam Street, Coimbatore, Tamilnadu, India"
+    },
+    "summary": "Experienced software engineer with a passion for problem-solving and a strong background in web development.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "University of SRM",
+        "year": "2019 - 2023"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Senior Software Engineer",
+        "company": "Tech Solutions Inc.",
+        "startDate": "January 2023",
+        "endDate": "Present",
+        "responsibilities": [
+          "Develop and maintain web applications using modern technologies.",
+        ]
+      },
+     
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "HTML/CSS",
+      "SQL",
+      "Git",
+      "Agile/Scrum",
+      "Problem Solving",
+      "Team Collaboration"
+    ],
+    "languages": ["English (Fluent)", "Spanish (Intermediate)","kannada(fluent)","Tamil(fluent)"]
+  }
+  
